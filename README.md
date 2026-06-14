@@ -1,7 +1,7 @@
 # PhytoVision Frontend
 
 Detection des maladies du mais par intelligence artificielle
-IRAD Cameroun · Projet de fin d'etudes
+IRAD Cameroun · 
 
 [React] [Tailwind] [Status: Production Ready]
 
