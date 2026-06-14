@@ -65,37 +65,7 @@ text
 Vue → Controleur → Service API → Backend FastAPI
 Aucune vue n'importe directement ApiService. Tout passe par le controleur correspondant.
 
-Structure des dossiers
-text
-src/
-├── assets/              # Logos, icones, images statiques
-├── components/          # 10 composants reutilisables
-│   ├── Sidebar.jsx
-│   ├── Logo.jsx
-│   ├── StatisticCard.jsx
-│   ├── UploadZone.jsx
-│   ├── ResultCards.jsx
-│   ├── SearchBar.jsx
-│   ├── HistoriqueTable.jsx
-│   ├── DiagnosticModal.jsx
-│   ├── Spinner.jsx
-│   └── EmptyState.jsx
-├── models/
-│   └── DiagnosticModel.js
-├── views/               # 3 pages principales
-│   ├── AnalyseView.jsx
-│   ├── HistoriqueView.jsx
-│   └── EpidemiologieView.jsx
-├── controllers/
-│   ├── AnalyseController.js
-│   ├── HistoriqueController.js
-│   └── DashboardController.js
-├── services/
-│   └── ApiService.js    # Point unique de communication backend
-├── routes/
-│   └── AppRoutes.jsx
-├── App.jsx
-└── index.js
+
 Pages
 Page 1 — Analyse (page principale)
 Zone	Description
@@ -105,6 +75,7 @@ Zone d'import	Drag-and-drop, boutons 'Choisir fichier' et 'Prendre photo'
 Previsualisation	Affiche l'image selectionnee avant analyse
 Bouton Analyser	Bouton vert desactive si aucun fichier, Spinner pendant traitement
 Cartes resultat	Maladie, Confiance (barre progression), Severite (couleur dynamique), Action
+
 Page 2 — Historique
 Fonctionnalite	Description
 3 cartes resume	Compteurs par maladie (Virus Strie, Brulure Foliaire, Tache Grise)
@@ -114,6 +85,7 @@ Tableau historique	Colonnes : #, Date, Maladie, Severite, Action, Confiance, Zon
 Bouton Details	Ouvre DiagnosticModal avec toutes informations
 Export CSV	Telechargement fichier CSV
 Etat vide	Message si aucun resultat
+
 Page 3 — Epidemiologie
 Fonctionnalite	Description
 4 cartes resume	Total cas, Zone plus touchee, Feuilles saines, Zones surveillees
