@@ -38,7 +38,7 @@ PhytoVision est un assistant intelligent d'aide a la decision phytosanitaire pou
 
 ## Demarrer le projet
 
-```bash
+
 # Installation
 npm install
 
