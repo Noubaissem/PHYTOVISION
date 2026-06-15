@@ -1,0 +1,996 @@
+image,culture_id,maladie_id,etat_id
+leaf spot212_.jpg,1,3,1
+leaf spot1002_.jpg,1,3,1
+leaf spot192_.jpg,1,3,1
+843maize_valid_leaf spot.JPG,1,3,1
+491maize_valid_streak virus.JPG,1,1,1
+leaf spot595_.jpg,1,3,1
+leaf spot91_.jpg,1,3,1
+leaf spot694_.jpg,1,3,1
+17maize_train_healthy.JPG,1,0,0
+leaf spot92_.jpg,1,3,1
+leaf blight495_.jpg,1,2,1
+streak virus795_.jpg,1,1,1
+AUG_ab3482e3.jpg,1,0,0
+681maize_valid_streak virus.JPG,1,1,1
+662maize_train_leaf blight.JPG,1,2,1
+leaf spot1259_.jpg,1,3,1
+leaf blight226_.jpg,1,2,1
+2034maize_train_leaf spot.JPG,1,3,1
+36maize_train_healthy.JPG,1,0,0
+leaf blight993_.jpg,1,2,1
+streak virus828_.jpg,1,1,1
+leaf blight743_.jpg,1,2,1
+168maize_train_leaf blight.JPG,1,2,1
+AUG_33e392d8.jpg,1,0,0
+leaf blight216_.jpg,1,2,1
+708maize_valid_leaf blight.JPG,1,2,1
+63maize_train_streak virus.JPG,1,1,1
+leaf blight697_.jpg,1,2,1
+streak virus151_.jpg,1,1,1
+leaf blight466_.jpg,1,2,1
+1119maize_valid_leaf spot.JPG,1,3,1
+AUG_e151f7ff.jpg,1,0,0
+streak virus849_.jpg,1,1,1
+460maize_valid_leaf blight.JPG,1,2,1
+streak virus821_.jpg,1,1,1
+AUG_5d477c20.jpg,1,0,0
+AUG_554621d0.jpg,1,0,0
+680maize_valid_leaf blight.JPG,1,2,1
+streak virus269_.jpg,1,1,1
+leaf blight972_.jpg,1,2,1
+healthy118_.jpg,1,0,0
+674maize_valid_streak virus.JPG,1,1,1
+205maize_valid_healthy.JPG,1,0,0
+leaf blight588_.jpg,1,2,1
+leaf spot407_.jpg,1,3,1
+streak virus385_.jpg,1,1,1
+2099maize_train_leaf blight.JPG,1,2,1
+586maize_valid_streak virus.JPG,1,1,1
+streak virus871_.jpg,1,1,1
+144maize_train_healthy.JPG,1,0,0
+streak virus343_.jpg,1,1,1
+108maize_train_healthy.JPG,1,0,0
+286maize_train_streak virus.JPG,1,1,1
+AUG_f1abf1af.jpg,1,0,0
+streak virus863_.jpg,1,1,1
+streak virus175_.jpg,1,1,1
+leaf blight876_.jpg,1,2,1
+leaf spot990_.jpg,1,3,1
+streak virus874_.jpg,1,1,1
+leaf blight346_.jpg,1,2,1
+healthy130_.jpg,1,0,0
+leaf spot869_.jpg,1,3,1
+101maize_train_healthy.JPG,1,0,0
+AUG_f887f373.jpg,1,0,0
+leaf blight219_.jpg,1,2,1
+1017maize_train_leaf spot.JPG,1,3,1
+leaf spot303_.jpg,1,3,1
+AUG_8835368f.jpg,1,0,0
+leaf blight644_.jpg,1,2,1
+leaf spot1077_.jpg,1,3,1
+leaf spot23_.jpg,1,3,1
+leaf spot673_.jpg,1,3,1
+leaf spot690_.jpg,1,3,1
+999maize_valid_leaf blight.JPG,1,2,1
+healthy134_.jpg,1,0,0
+376maize_valid_leaf blight.JPG,1,2,1
+leaf blight491_.jpg,1,2,1
+leaf spot1128_.jpg,1,3,1
+328maize_train_streak virus.JPG,1,1,1
+20maize_valid_leaf blight.JPG,1,2,1
+leaf blight52_.jpg,1,2,1
+streak virus160_.jpg,1,1,1
+leaf spot821_.jpg,1,3,1
+30maize_valid_leaf blight.JPG,1,2,1
+1229maize_valid_leaf spot.JPG,1,3,1
+streak virus945_.jpg,1,1,1
+AUG_1999fdde.jpg,1,0,0
+leaf blight593_.jpg,1,2,1
+leaf blight916_.jpg,1,2,1
+leaf blight3_.jpg,1,2,1
+263maize_train_healthy.JPG,1,0,0
+AUG_35fad609.jpg,1,0,0
+186maize_valid_leaf spot.JPG,1,3,1
+AUG_6dd02d0b.jpg,1,0,0
+leaf spot656_.jpg,1,3,1
+AUG_1c81c07a.jpg,1,0,0
+2183maize_train_leaf blight.JPG,1,2,1
+AUG_8df3afb7.jpg,1,0,0
+AUG_47d4cda0.jpg,1,0,0
+streak virus420_.jpg,1,1,1
+238maize_train_healthy.JPG,1,0,0
+leaf blight463_.jpg,1,2,1
+leaf blight193_.jpg,1,2,1
+leaf spot119_.jpg,1,3,1
+95maize_valid_leaf blight.JPG,1,2,1
+447maize_valid_leaf blight.JPG,1,2,1
+287maize_valid_streak virus.JPG,1,1,1
+leaf blight592_.jpg,1,2,1
+AUG_f42d803a.jpg,1,0,0
+streak virus171_.jpg,1,1,1
+leaf spot398_.jpg,1,3,1
+leaf blight490_.jpg,1,2,1
+leaf spot238_.jpg,1,3,1
+582maize_valid_streak virus.JPG,1,1,1
+streak virus497_.jpg,1,1,1
+831maize_valid_leaf blight.JPG,1,2,1
+leaf blight5_.jpg,1,2,1
+leaf blight74_.jpg,1,2,1
+AUG_9664ccfa.jpg,1,0,0
+AUG_8cb13431.jpg,1,0,0
+AUG_38b204ef.jpg,1,0,0
+streak virus292_.jpg,1,1,1
+AUG_b713d76d.jpg,1,0,0
+healthy72_.jpg,1,0,0
+streak virus227_.jpg,1,1,1
+leaf spot760_.jpg,1,3,1
+healthy209_.jpg,1,0,0
+26maize_valid_leaf blight.JPG,1,2,1
+230maize_train_healthy.JPG,1,0,0
+leaf spot1242_.jpg,1,3,1
+leaf blight160_.jpg,1,2,1
+leaf spot561_.jpg,1,3,1
+leaf blight380_.jpg,1,2,1
+leaf spot541_.jpg,1,3,1
+AUG_28bcae9d.jpg,1,0,0
+15maize_valid_leaf blight.JPG,1,2,1
+401maize_valid_streak virus.JPG,1,1,1
+AUG_8896f04b.jpg,1,0,0
+leaf blight674_.jpg,1,2,1
+leaf spot807_.jpg,1,3,1
+2297maize_train_leaf blight.JPG,1,2,1
+AUG_65ef8538.jpg,1,0,0
+AUG_452058ad.jpg,1,0,0
+10maize_valid_streak virus.JPG,1,1,1
+leaf spot982_.jpg,1,3,1
+1026maize_train_leaf spot.JPG,1,3,1
+166maize_train_streak virus.JPG,1,1,1
+407maize_valid_leaf spot.JPG,1,3,1
+792maize_valid_streak virus.JPG,1,1,1
+222maize_valid_leaf spot.JPG,1,3,1
+streak virus704_.jpg,1,1,1
+leaf blight170_.jpg,1,2,1
+515maize_train_streak virus.JPG,1,1,1
+leaf spot438_.jpg,1,3,1
+streak virus6_.jpg,1,1,1
+AUG_03c3c74c.jpg,1,0,0
+leaf blight389_.jpg,1,2,1
+healthy110_.jpg,1,0,0
+AUG_0d1b033d.jpg,1,0,0
+streak virus419_.jpg,1,1,1
+AUG_086e17a3.jpg,1,0,0
+leaf blight983_.jpg,1,2,1
+leaf spot18_.jpg,1,3,1
+61maize_train_leaf blight.JPG,1,2,1
+800maize_valid_streak virus.JPG,1,1,1
+leaf spot722_.jpg,1,3,1
+streak virus18_.jpg,1,1,1
+leaf spot691_.jpg,1,3,1
+leaf spot621_.jpg,1,3,1
+healthy139_.jpg,1,0,0
+16maize_train_leaf blight.JPG,1,2,1
+leaf blight693_.jpg,1,2,1
+leaf spot111_.jpg,1,3,1
+AUG_943a21a2.jpg,1,0,0
+107maize_valid_leaf blight.JPG,1,2,1
+streak virus1010_.jpg,1,1,1
+718maize_train_streak virus.JPG,1,1,1
+690maize_valid_streak virus.JPG,1,1,1
+leaf blight695_.jpg,1,2,1
+leaf spot573_.jpg,1,3,1
+AUG_ea0ec6db.jpg,1,0,0
+leaf spot1214_.jpg,1,3,1
+leaf spot953_.jpg,1,3,1
+leaf blight519_.jpg,1,2,1
+AUG_b70f34c7.jpg,1,0,0
+1874maize_train_leaf spot.JPG,1,3,1
+streak virus496_.jpg,1,1,1
+streak virus806_.jpg,1,1,1
+streak virus608_.jpg,1,1,1
+283maize_valid_streak virus.JPG,1,1,1
+leaf blight529_.jpg,1,2,1
+leaf blight2_.jpg,1,2,1
+676maize_valid_leaf blight.JPG,1,2,1
+leaf spot734_.jpg,1,3,1
+AUG_3f37b578.jpg,1,0,0
+streak virus442_.jpg,1,1,1
+leaf blight305_.jpg,1,2,1
+streak virus417_.jpg,1,1,1
+leaf blight881_.jpg,1,2,1
+AUG_881089c9.jpg,1,0,0
+104maize_train_leaf blight.JPG,1,2,1
+98maize_train_healthy.JPG,1,0,0
+leaf blight703_.jpg,1,2,1
+300maize_valid_leaf blight.JPG,1,2,1
+1021maize_train_leaf spot.JPG,1,3,1
+840maize_valid_streak virus.JPG,1,1,1
+leaf blight18_.jpg,1,2,1
+streak virus36_.jpg,1,1,1
+AUG_f9e82c47.jpg,1,0,0
+482maize_train_streak virus.JPG,1,1,1
+leaf blight858_.jpg,1,2,1
+AUG_527f5a54.jpg,1,0,0
+AUG_c0a984f7.jpg,1,0,0
+leaf spot966_.jpg,1,3,1
+AUG_c4cd8aa8.jpg,1,0,0
+streak virus700_.jpg,1,1,1
+streak virus426_.jpg,1,1,1
+leaf spot1166_.jpg,1,3,1
+streak virus971_.jpg,1,1,1
+AUG_db969a8c.jpg,1,0,0
+134maize_train_healthy.JPG,1,0,0
+AUG_33b2a8f6.jpg,1,0,0
+AUG_a525289a.jpg,1,0,0
+213maize_valid_streak virus.JPG,1,1,1
+streak virus877_.jpg,1,1,1
+leaf spot968_.jpg,1,3,1
+leaf spot15_.jpg,1,3,1
+209maize_valid_leaf blight.JPG,1,2,1
+131maize_train_healthy.JPG,1,0,0
+leaf spot1208_.jpg,1,3,1
+61maize_train_streak virus.JPG,1,1,1
+leaf blight707_.jpg,1,2,1
+314maize_train_leaf blight.JPG,1,2,1
+AUG_842fad2d.jpg,1,0,0
+leaf spot404_.jpg,1,3,1
+leaf blight119_.jpg,1,2,1
+916maize_valid_leaf blight.JPG,1,2,1
+580maize_train_streak virus.JPG,1,1,1
+streak virus444_.jpg,1,1,1
+leaf blight783_.jpg,1,2,1
+185maize_train_healthy.JPG,1,0,0
+leaf blight43_.jpg,1,2,1
+AUG_37b6660c.jpg,1,0,0
+2286maize_train_leaf blight.JPG,1,2,1
+leaf spot179_.jpg,1,3,1
+AUG_df60a23f.jpg,1,0,0
+1154maize_valid_leaf spot.JPG,1,3,1
+leaf spot919_.jpg,1,3,1
+88maize_train_healthy.JPG,1,0,0
+AUG_5a7417e5.jpg,1,0,0
+leaf blight776_.jpg,1,2,1
+255maize_train_healthy.JPG,1,0,0
+AUG_e730cb50.jpg,1,0,0
+streak virus187_.jpg,1,1,1
+AUG_d11a71e2.jpg,1,0,0
+healthy170_.jpg,1,0,0
+leaf spot565_.jpg,1,3,1
+692maize_valid_streak virus.JPG,1,1,1
+AUG_d9ad285c.jpg,1,0,0
+leaf blight652_.jpg,1,2,1
+451maize_valid_leaf spot.JPG,1,3,1
+leaf blight676_.jpg,1,2,1
+streak virus893_.jpg,1,1,1
+leaf spot969_.jpg,1,3,1
+AUG_5d28b241.jpg,1,0,0
+leaf spot343_.jpg,1,3,1
+484maize_train_streak virus.JPG,1,1,1
+leaf blight973_.jpg,1,2,1
+AUG_7c991bd1.jpg,1,0,0
+leaf spot654_.jpg,1,3,1
+streak virus435_.jpg,1,1,1
+419maize_valid_leaf blight.JPG,1,2,1
+leaf spot888_.jpg,1,3,1
+338maize_train_streak virus.JPG,1,1,1
+leaf spot159_.jpg,1,3,1
+118maize_train_healthy.JPG,1,0,0
+AUG_5a09d7ef.jpg,1,0,0
+leaf spot642_.jpg,1,3,1
+AUG_fe2b3ee6.jpg,1,0,0
+79maize_train_streak virus.JPG,1,1,1
+AUG_b591af13.jpg,1,0,0
+AUG_2fc54d6d.jpg,1,0,0
+AUG_32185fd8.jpg,1,0,0
+leaf blight734_.jpg,1,2,1
+leaf blight445_.jpg,1,2,1
+leaf spot194_.jpg,1,3,1
+leaf spot787_.jpg,1,3,1
+leaf spot959_.jpg,1,3,1
+leaf spot1060_.jpg,1,3,1
+leaf blight297_.jpg,1,2,1
+streak virus562_.jpg,1,1,1
+leaf spot106_.jpg,1,3,1
+AUG_1b66b1a1.jpg,1,0,0
+leaf spot610_.jpg,1,3,1
+healthy104_.jpg,1,0,0
+578maize_train_streak virus.JPG,1,1,1
+AUG_49d6bc89.jpg,1,0,0
+leaf blight735_.jpg,1,2,1
+41maize_train_healthy.JPG,1,0,0
+AUG_465db314.jpg,1,0,0
+1927maize_train_leaf spot.JPG,1,3,1
+AUG_8a1eb25f.jpg,1,0,0
+streak virus705_.jpg,1,1,1
+492maize_train_streak virus.JPG,1,1,1
+streak virus405_.jpg,1,1,1
+leaf blight23_.jpg,1,2,1
+streak virus230_.jpg,1,1,1
+249maize_valid_streak virus.JPG,1,1,1
+healthy207_.jpg,1,0,0
+leaf blight267_.jpg,1,2,1
+leaf spot1152_.jpg,1,3,1
+leaf spot31_.jpg,1,3,1
+729maize_valid_leaf spot.JPG,1,3,1
+2191maize_train_leaf blight.JPG,1,2,1
+AUG_c6519730.jpg,1,0,0
+1074maize_valid_leaf spot.JPG,1,3,1
+AUG_21a647cd.jpg,1,0,0
+82maize_train_healthy.JPG,1,0,0
+483maize_train_streak virus.JPG,1,1,1
+429maize_valid_leaf blight.JPG,1,2,1
+streak virus360_.jpg,1,1,1
+leaf spot222_.jpg,1,3,1
+leaf spot937_.jpg,1,3,1
+streak virus138_.jpg,1,1,1
+813maize_valid_streak virus.JPG,1,1,1
+leaf blight546_.jpg,1,2,1
+leaf spot1025_.jpg,1,3,1
+leaf blight203_.jpg,1,2,1
+leaf spot707_.jpg,1,3,1
+1098maize_train_leaf spot.JPG,1,3,1
+leaf spot628_.jpg,1,3,1
+leaf blight574_.jpg,1,2,1
+597maize_train_streak virus.JPG,1,1,1
+streak virus413_.jpg,1,1,1
+leaf blight635_.jpg,1,2,1
+leaf blight444_.jpg,1,2,1
+AUG_904b3a05.jpg,1,0,0
+leaf blight999_.jpg,1,2,1
+leaf blight994_.jpg,1,2,1
+leaf blight471_.jpg,1,2,1
+AUG_390bd5e3.jpg,1,0,0
+427maize_valid_leaf blight.JPG,1,2,1
+leaf spot643_.jpg,1,3,1
+AUG_f417c0a6.jpg,1,0,0
+healthy102_.jpg,1,0,0
+564maize_valid_streak virus.JPG,1,1,1
+leaf spot1066_.jpg,1,3,1
+209maize_train_healthy.JPG,1,0,0
+53maize_train_healthy.JPG,1,0,0
+183maize_valid_leaf spot.JPG,1,3,1
+leaf spot913_.jpg,1,3,1
+leaf blight503_.jpg,1,2,1
+794maize_train_streak virus.JPG,1,1,1
+508maize_train_streak virus.JPG,1,1,1
+922maize_train_leaf blight.JPG,1,2,1
+314maize_train_streak virus.JPG,1,1,1
+690maize_train_streak virus.JPG,1,1,1
+leaf spot961_.jpg,1,3,1
+AUG_f76bb883.jpg,1,0,0
+leaf spot950_.jpg,1,3,1
+streak virus100_.jpg,1,1,1
+leaf spot97_.jpg,1,3,1
+28maize_valid_streak virus.JPG,1,1,1
+AUG_33d891f8.jpg,1,0,0
+2114maize_train_leaf blight.JPG,1,2,1
+leaf spot352_.jpg,1,3,1
+leaf blight829_.jpg,1,2,1
+leaf spot221_.jpg,1,3,1
+leaf spot627_.jpg,1,3,1
+160maize_valid_streak virus.JPG,1,1,1
+healthy133_.jpg,1,0,0
+leaf blight191_.jpg,1,2,1
+AUG_959adfd3.jpg,1,0,0
+333maize_valid_streak virus.JPG,1,1,1
+699maize_train_streak virus.JPG,1,1,1
+117maize_valid_healthy.JPG,1,0,0
+113maize_train_healthy.JPG,1,0,0
+healthy22_.jpg,1,0,0
+streak virus737_.jpg,1,1,1
+AUG_e81bc839.jpg,1,0,0
+healthy112_.jpg,1,0,0
+leaf blight621_.jpg,1,2,1
+691maize_train_streak virus.JPG,1,1,1
+leaf blight911_.jpg,1,2,1
+leaf spot234_.jpg,1,3,1
+leaf spot674_.jpg,1,3,1
+135maize_valid_streak virus.JPG,1,1,1
+leaf blight65_.jpg,1,2,1
+AUG_e9d0fde5.jpg,1,0,0
+2205maize_train_leaf blight.JPG,1,2,1
+704maize_valid_leaf spot.JPG,1,3,1
+streak virus113_.jpg,1,1,1
+AUG_630b9f54.jpg,1,0,0
+516maize_train_streak virus.JPG,1,1,1
+streak virus794_.jpg,1,1,1
+AUG_39251922.jpg,1,0,0
+healthy174_.jpg,1,0,0
+366maize_valid_leaf blight.JPG,1,2,1
+481maize_valid_streak virus.JPG,1,1,1
+leaf spot260_.jpg,1,3,1
+868maize_valid_streak virus.JPG,1,1,1
+93maize_train_healthy.JPG,1,0,0
+318maize_train_streak virus.JPG,1,1,1
+healthy135_.jpg,1,0,0
+leaf spot384_.jpg,1,3,1
+11maize_train_leaf blight.JPG,1,2,1
+streak virus527_.jpg,1,1,1
+396maize_valid_streak virus.JPG,1,1,1
+AUG_a53f5ec0.jpg,1,0,0
+leaf spot1140_.jpg,1,3,1
+streak virus177_.jpg,1,1,1
+518maize_train_streak virus.JPG,1,1,1
+leaf spot594_.jpg,1,3,1
+AUG_4c280fa0.jpg,1,0,0
+leaf blight478_.jpg,1,2,1
+leaf spot775_.jpg,1,3,1
+255maize_valid_streak virus.JPG,1,1,1
+streak virus543_.jpg,1,1,1
+456maize_valid_leaf spot.JPG,1,3,1
+leaf blight987_.jpg,1,2,1
+streak virus414_.jpg,1,1,1
+988maize_valid_streak virus.JPG,1,1,1
+400maize_valid_streak virus.JPG,1,1,1
+AUG_9d5c1003.jpg,1,0,0
+leaf spot232_.jpg,1,3,1
+leaf spot448_.jpg,1,3,1
+leaf spot229_.jpg,1,3,1
+14maize_valid_streak virus.JPG,1,1,1
+AUG_7df1c8f5.jpg,1,0,0
+117maize_train_healthy.JPG,1,0,0
+AUG_20dbfde3.jpg,1,0,0
+AUG_c3c88a41.jpg,1,0,0
+258maize_train_streak virus.JPG,1,1,1
+AUG_77ee4f02.jpg,1,0,0
+AUG_3052e26c.jpg,1,0,0
+leaf blight273_.jpg,1,2,1
+leaf spot145_.jpg,1,3,1
+1002maize_valid_leaf blight.JPG,1,2,1
+AUG_fbe6995f.jpg,1,0,0
+streak virus12_.jpg,1,1,1
+AUG_bdcdc99d.jpg,1,0,0
+leaf spot995_.jpg,1,3,1
+leaf spot400_.jpg,1,3,1
+streak virus896_.jpg,1,1,1
+253maize_train_streak virus.JPG,1,1,1
+streak virus225_.jpg,1,1,1
+AUG_a84c9bdd.jpg,1,0,0
+AUG_385caef6.jpg,1,0,0
+AUG_a607e082.jpg,1,0,0
+healthy145_.jpg,1,0,0
+65maize_train_streak virus.JPG,1,1,1
+leaf spot322_.jpg,1,3,1
+AUG_4898a8d2.jpg,1,0,0
+AUG_5751acda.jpg,1,0,0
+healthy5_.jpg,1,0,0
+leaf spot313_.jpg,1,3,1
+185maize_train_leaf blight.JPG,1,2,1
+streak virus176_.jpg,1,1,1
+leaf spot386_.jpg,1,3,1
+leaf spot20_.jpg,1,3,1
+streak virus949_.jpg,1,1,1
+AUG_b5c89906.jpg,1,0,0
+995maize_valid_streak virus.JPG,1,1,1
+462maize_valid_leaf blight.JPG,1,2,1
+leaf spot41_.jpg,1,3,1
+722maize_valid_leaf spot.JPG,1,3,1
+streak virus677_.jpg,1,1,1
+AUG_de718ecd.jpg,1,0,0
+leaf spot898_.jpg,1,3,1
+streak virus320_.jpg,1,1,1
+leaf blight168_.jpg,1,2,1
+leaf blight473_.jpg,1,2,1
+33maize_train_healthy.JPG,1,0,0
+200maize_valid_leaf blight.JPG,1,2,1
+2192maize_train_leaf blight.JPG,1,2,1
+790maize_train_streak virus.JPG,1,1,1
+500maize_train_streak virus.JPG,1,1,1
+AUG_8c34707d.jpg,1,0,0
+164maize_valid_streak virus.JPG,1,1,1
+leaf blight844_.jpg,1,2,1
+486maize_train_streak virus.JPG,1,1,1
+AUG_1d174fc0.jpg,1,0,0
+streak virus152_.jpg,1,1,1
+healthy70_.jpg,1,0,0
+290maize_train_streak virus.JPG,1,1,1
+leaf blight665_.jpg,1,2,1
+11maize_valid_leaf blight.JPG,1,2,1
+leaf blight747_.jpg,1,2,1
+38maize_train_healthy.JPG,1,0,0
+828maize_valid_leaf blight.JPG,1,2,1
+205maize_valid_streak virus.JPG,1,1,1
+leaf spot25_.jpg,1,3,1
+AUG_88872102.jpg,1,0,0
+1902maize_train_leaf spot.JPG,1,3,1
+streak virus61_.jpg,1,1,1
+leaf spot1029_.jpg,1,3,1
+leaf spot629_.jpg,1,3,1
+streak virus600_.jpg,1,1,1
+55maize_valid_streak virus.JPG,1,1,1
+streak virus382_.jpg,1,1,1
+leaf blight139_.jpg,1,2,1
+leaf spot371_.jpg,1,3,1
+661maize_valid_streak virus.JPG,1,1,1
+streak virus622_.jpg,1,1,1
+228maize_train_healthy.JPG,1,0,0
+AUG_72300b7f.jpg,1,0,0
+leaf spot786_.jpg,1,3,1
+streak virus348_.jpg,1,1,1
+984maize_valid_streak virus.JPG,1,1,1
+AUG_91be18ce.jpg,1,0,0
+leaf blight671_.jpg,1,2,1
+leaf spot347_.jpg,1,3,1
+286maize_valid_leaf blight.JPG,1,2,1
+leaf blight230_.jpg,1,2,1
+AUG_0f807bdd.jpg,1,0,0
+AUG_bc4ff477.jpg,1,0,0
+751maize_train_streak virus.JPG,1,1,1
+669maize_valid_leaf blight.JPG,1,2,1
+518maize_valid_leaf spot.JPG,1,3,1
+leaf blight636_.jpg,1,2,1
+leaf spot658_.jpg,1,3,1
+AUG_b041d4f5.jpg,1,0,0
+leaf blight291_.jpg,1,2,1
+healthy121_.jpg,1,0,0
+leaf blight420_.jpg,1,2,1
+598maize_train_streak virus.JPG,1,1,1
+229maize_train_healthy.JPG,1,0,0
+10maize_train_leaf blight.JPG,1,2,1
+847maize_valid_streak virus.JPG,1,1,1
+483maize_valid_streak virus.JPG,1,1,1
+leaf spot939_.jpg,1,3,1
+streak virus472_.jpg,1,1,1
+AUG_1b700976.jpg,1,0,0
+921maize_train_leaf blight.JPG,1,2,1
+leaf spot1236_.jpg,1,3,1
+leaf blight584_.jpg,1,2,1
+1109maize_train_leaf spot.JPG,1,3,1
+leaf spot540_.jpg,1,3,1
+streak virus298_.jpg,1,1,1
+AUG_59278b7c.jpg,1,0,0
+leaf spot103_.jpg,1,3,1
+55maize_train_healthy.JPG,1,0,0
+421maize_valid_leaf blight.JPG,1,2,1
+streak virus920_.jpg,1,1,1
+leaf blight834_.jpg,1,2,1
+leaf spot362_.jpg,1,3,1
+AUG_1202f2fe.jpg,1,0,0
+87maize_valid_streak virus.JPG,1,1,1
+282maize_valid_streak virus.JPG,1,1,1
+leaf spot972_.jpg,1,3,1
+leaf blight350_.jpg,1,2,1
+streak virus3_.jpg,1,1,1
+1027maize_train_leaf spot.JPG,1,3,1
+AUG_f9795b6e.jpg,1,0,0
+89maize_train_healthy.JPG,1,0,0
+13maize_valid_streak virus.JPG,1,1,1
+leaf spot1070_.jpg,1,3,1
+AUG_f7dc1e56.jpg,1,0,0
+streak virus335_.jpg,1,1,1
+796maize_train_streak virus.JPG,1,1,1
+2078maize_train_leaf blight.JPG,1,2,1
+668maize_valid_leaf blight.JPG,1,2,1
+leaf blight396_.jpg,1,2,1
+leaf spot1194_.jpg,1,3,1
+streak virus996_.jpg,1,1,1
+AUG_2149f28c.jpg,1,0,0
+55maize_valid_leaf spot.JPG,1,3,1
+leaf blight459_.jpg,1,2,1
+healthy60_.jpg,1,0,0
+leaf spot340_.jpg,1,3,1
+187maize_train_healthy.JPG,1,0,0
+streak virus473_.jpg,1,1,1
+leaf spot559_.jpg,1,3,1
+healthy124_.jpg,1,0,0
+healthy106_.jpg,1,0,0
+leaf spot1104_.jpg,1,3,1
+leaf spot717_.jpg,1,3,1
+streak virus563_.jpg,1,1,1
+13maize_train_leaf blight.JPG,1,2,1
+AUG_dae148b5.jpg,1,0,0
+leaf blight398_.jpg,1,2,1
+leaf spot943_.jpg,1,3,1
+streak virus469_.jpg,1,1,1
+leaf spot667_.jpg,1,3,1
+streak virus90_.jpg,1,1,1
+444maize_valid_leaf spot.JPG,1,3,1
+healthy183_.jpg,1,0,0
+leaf blight335_.jpg,1,2,1
+leaf blight300_.jpg,1,2,1
+412maize_valid_leaf blight.JPG,1,2,1
+healthy46_.jpg,1,0,0
+streak virus840_.jpg,1,1,1
+210maize_train_streak virus.JPG,1,1,1
+568maize_train_streak virus.JPG,1,1,1
+streak virus373_.jpg,1,1,1
+leaf spot50_.jpg,1,3,1
+237maize_train_healthy.JPG,1,0,0
+1maize_valid_streak virus.JPG,1,1,1
+388maize_valid_streak virus.JPG,1,1,1
+streak virus8_.jpg,1,1,1
+leaf spot96_.jpg,1,3,1
+leaf spot251_.jpg,1,3,1
+1879maize_train_leaf spot.JPG,1,3,1
+406maize_valid_leaf spot.JPG,1,3,1
+leaf spot934_.jpg,1,3,1
+leaf blight361_.jpg,1,2,1
+leaf spot1253_.jpg,1,3,1
+healthy28_.jpg,1,0,0
+leaf blight115_.jpg,1,2,1
+leaf spot956_.jpg,1,3,1
+319maize_train_streak virus.JPG,1,1,1
+leaf spot331_.jpg,1,3,1
+AUG_79a8698c.jpg,1,0,0
+AUG_bb5b06d3.jpg,1,0,0
+leaf spot43_.jpg,1,3,1
+699maize_valid_streak virus.JPG,1,1,1
+leaf blight206_.jpg,1,2,1
+AUG_1f168e79.jpg,1,0,0
+AUG_2a573eb8.jpg,1,0,0
+streak virus953_.jpg,1,1,1
+leaf spot161_.jpg,1,3,1
+leaf blight151_.jpg,1,2,1
+streak virus375_.jpg,1,1,1
+leaf blight54_.jpg,1,2,1
+90maize_valid_leaf blight.JPG,1,2,1
+leaf spot1096_.jpg,1,3,1
+leaf spot1076_.jpg,1,3,1
+AUG_86d33fe5.jpg,1,0,0
+leaf spot34_.jpg,1,3,1
+345maize_valid_streak virus.JPG,1,1,1
+609maize_train_streak virus.JPG,1,1,1
+AUG_66b98bac.jpg,1,0,0
+leaf spot122_.jpg,1,3,1
+leaf spot482_.jpg,1,3,1
+839maize_valid_streak virus.JPG,1,1,1
+leaf blight409_.jpg,1,2,1
+385maize_valid_leaf blight.JPG,1,2,1
+leaf spot285_.jpg,1,3,1
+streak virus347_.jpg,1,1,1
+leaf blight430_.jpg,1,2,1
+leaf blight310_.jpg,1,2,1
+AUG_c10c4274.jpg,1,0,0
+523maize_valid_leaf spot.JPG,1,3,1
+AUG_5b7a583b.jpg,1,0,0
+leaf spot243_.jpg,1,3,1
+leaf blight984_.jpg,1,2,1
+leaf spot246_.jpg,1,3,1
+leaf spot138_.jpg,1,3,1
+264maize_valid_streak virus.JPG,1,1,1
+leaf blight722_.jpg,1,2,1
+streak virus127_.jpg,1,1,1
+408maize_valid_leaf spot.JPG,1,3,1
+leaf spot163_.jpg,1,3,1
+AUG_befc965d.jpg,1,0,0
+leaf spot645_.jpg,1,3,1
+2063maize_train_leaf blight.JPG,1,2,1
+leaf blight333_.jpg,1,2,1
+leaf blight485_.jpg,1,2,1
+streak virus922_.jpg,1,1,1
+streak virus188_.jpg,1,1,1
+1103maize_train_leaf spot.JPG,1,3,1
+streak virus595_.jpg,1,1,1
+921maize_valid_leaf blight.JPG,1,2,1
+978maize_valid_streak virus.JPG,1,1,1
+69maize_valid_streak virus.JPG,1,1,1
+leaf blight647_.jpg,1,2,1
+791maize_valid_streak virus.JPG,1,1,1
+981maize_valid_leaf blight.JPG,1,2,1
+183maize_train_healthy.JPG,1,0,0
+leaf spot792_.jpg,1,3,1
+1022maize_train_leaf spot.JPG,1,3,1
+AUG_da28cc34.jpg,1,0,0
+leaf blight161_.jpg,1,2,1
+1326maize_train_leaf blight.JPG,1,2,1
+966maize_valid_streak virus.JPG,1,1,1
+1253maize_valid_leaf spot.JPG,1,3,1
+leaf blight494_.jpg,1,2,1
+leaf blight159_.jpg,1,2,1
+AUG_ffd48257.jpg,1,0,0
+streak virus48_.jpg,1,1,1
+streak virus37_.jpg,1,1,1
+streak virus1003_.jpg,1,1,1
+6maize_valid_streak virus.JPG,1,1,1
+76maize_train_streak virus.JPG,1,1,1
+654maize_train_leaf blight.JPG,1,2,1
+leaf spot670_.jpg,1,3,1
+leaf blight575_.jpg,1,2,1
+leaf blight508_.jpg,1,2,1
+2080maize_train_leaf blight.JPG,1,2,1
+AUG_fcd7e24c.jpg,1,0,0
+streak virus122_.jpg,1,1,1
+AUG_77c79343.jpg,1,0,0
+2284maize_train_leaf blight.JPG,1,2,1
+streak virus519_.jpg,1,1,1
+538maize_train_streak virus.JPG,1,1,1
+leaf spot78_.jpg,1,3,1
+healthy57_.jpg,1,0,0
+994maize_valid_streak virus.JPG,1,1,1
+1055maize_valid_leaf spot.JPG,1,3,1
+healthy73_.jpg,1,0,0
+leaf blight640_.jpg,1,2,1
+2060maize_train_leaf blight.JPG,1,2,1
+streak virus553_.jpg,1,1,1
+streak virus605_.jpg,1,1,1
+AUG_e587a3f0.jpg,1,0,0
+AUG_f51c4393.jpg,1,0,0
+leaf blight339_.jpg,1,2,1
+15maize_train_leaf blight.JPG,1,2,1
+leaf spot125_.jpg,1,3,1
+522maize_valid_leaf spot.JPG,1,3,1
+799maize_train_streak virus.JPG,1,1,1
+streak virus445_.jpg,1,1,1
+leaf blight482_.jpg,1,2,1
+AUG_30c6d8e5.jpg,1,0,0
+leaf spot200_.jpg,1,3,1
+leaf blight910_.jpg,1,2,1
+leaf spot858_.jpg,1,3,1
+healthy120_.jpg,1,0,0
+leaf spot997_.jpg,1,3,1
+streak virus730_.jpg,1,1,1
+streak virus902_.jpg,1,1,1
+leaf spot1213_.jpg,1,3,1
+streak virus979_.jpg,1,1,1
+streak virus549_.jpg,1,1,1
+220maize_train_streak virus.JPG,1,1,1
+1903maize_train_leaf spot.JPG,1,3,1
+AUG_91aa7eb8.jpg,1,0,0
+106maize_valid_streak virus.JPG,1,1,1
+leaf spot776_.jpg,1,3,1
+streak virus805_.jpg,1,1,1
+leaf blight238_.jpg,1,2,1
+streak virus467_.jpg,1,1,1
+streak virus357_.jpg,1,1,1
+leaf spot233_.jpg,1,3,1
+leaf blight167_.jpg,1,2,1
+streak virus841_.jpg,1,1,1
+707maize_valid_streak virus.JPG,1,1,1
+streak virus545_.jpg,1,1,1
+694maize_valid_leaf blight.JPG,1,2,1
+streak virus526_.jpg,1,1,1
+leaf blight596_.jpg,1,2,1
+streak virus482_.jpg,1,1,1
+leaf blight544_.jpg,1,2,1
+AUG_1f525207.jpg,1,0,0
+717maize_valid_leaf spot.JPG,1,3,1
+leaf spot116_.jpg,1,3,1
+streak virus274_.jpg,1,1,1
+AUG_d0395955.jpg,1,0,0
+leaf spot467_.jpg,1,3,1
+leaf spot268_.jpg,1,3,1
+284maize_valid_leaf blight.JPG,1,2,1
+streak virus755_.jpg,1,1,1
+AUG_9a9259c2.jpg,1,0,0
+leaf blight148_.jpg,1,2,1
+950maize_train_leaf blight.JPG,1,2,1
+leaf spot396_.jpg,1,3,1
+898maize_valid_leaf blight.JPG,1,2,1
+205maize_valid_leaf blight.JPG,1,2,1
+61maize_train_healthy.JPG,1,0,0
+2082maize_train_leaf blight.JPG,1,2,1
+leaf spot1241_.jpg,1,3,1
+AUG_6cc3612c.jpg,1,0,0
+streak virus948_.jpg,1,1,1
+leaf blight80_.jpg,1,2,1
+AUG_8c626dfb.jpg,1,0,0
+695maize_valid_leaf spot.JPG,1,3,1
+AUG_8d86907d.jpg,1,0,0
+streak virus999_.jpg,1,1,1
+leaf blight370_.jpg,1,2,1
+695maize_train_streak virus.JPG,1,1,1
+leaf spot749_.jpg,1,3,1
+511maize_train_streak virus.JPG,1,1,1
+streak virus505_.jpg,1,1,1
+899maize_valid_leaf blight.JPG,1,2,1
+285maize_valid_streak virus.JPG,1,1,1
+AUG_104bb17b.jpg,1,0,0
+streak virus1005_.jpg,1,1,1
+leaf spot1168_.jpg,1,3,1
+leaf blight55_.jpg,1,2,1
+374maize_valid_streak virus.JPG,1,1,1
+17maize_train_leaf blight.JPG,1,2,1
+leaf spot326_.jpg,1,3,1
+healthy97_.jpg,1,0,0
+AUG_59f49eef.jpg,1,0,0
+951maize_train_leaf blight.JPG,1,2,1
+495maize_train_streak virus.JPG,1,1,1
+AUG_62daf2f5.jpg,1,0,0
+697maize_valid_streak virus.JPG,1,1,1
+leaf blight404_.jpg,1,2,1
+streak virus958_.jpg,1,1,1
+streak virus125_.jpg,1,1,1
+leaf blight938_.jpg,1,2,1
+AUG_05a9dfed.jpg,1,0,0
+1015maize_train_leaf spot.JPG,1,3,1
+21maize_train_leaf blight.JPG,1,2,1
+leaf blight469_.jpg,1,2,1
+AUG_b0268192.jpg,1,0,0
+streak virus345_.jpg,1,1,1
+486maize_valid_streak virus.JPG,1,1,1
+streak virus558_.jpg,1,1,1
+leaf blight123_.jpg,1,2,1
+leaf blight836_.jpg,1,2,1
+173maize_train_leaf blight.JPG,1,2,1
+leaf blight730_.jpg,1,2,1
+leaf blight819_.jpg,1,2,1
+102maize_valid_leaf blight.JPG,1,2,1
+681maize_train_leaf blight.JPG,1,2,1
+leaf blight272_.jpg,1,2,1
+healthy187_.jpg,1,0,0
+leaf blight192_.jpg,1,2,1
+leaf blight656_.jpg,1,2,1
+721maize_train_streak virus.JPG,1,1,1
+leaf blight723_.jpg,1,2,1
+470maize_train_streak virus.JPG,1,1,1
+83maize_train_streak virus.JPG,1,1,1
+AUG_e4fa3f76.jpg,1,0,0
+streak virus370_.jpg,1,1,1
+leaf spot1160_.jpg,1,3,1
+0maize_train_leaf blight.JPG,1,2,1
+AUG_06595296.jpg,1,0,0
+1889maize_train_leaf spot.JPG,1,3,1
+AUG_628f5528.jpg,1,0,0
+leaf spot383_.jpg,1,3,1
+697maize_train_streak virus.JPG,1,1,1
+leaf blight330_.jpg,1,2,1
+streak virus106_.jpg,1,1,1
+streak virus102_.jpg,1,1,1
+leaf blight437_.jpg,1,2,1
+382maize_valid_streak virus.JPG,1,1,1
+leaf blight405_.jpg,1,2,1
+259maize_valid_streak virus.JPG,1,1,1
+leaf spot977_.jpg,1,3,1
+leaf spot1018_.jpg,1,3,1
+leaf spot1149_.jpg,1,3,1
+AUG_3aab1282.jpg,1,0,0
+leaf spot487_.jpg,1,3,1
+leaf spot57_.jpg,1,3,1
+601maize_train_streak virus.JPG,1,1,1
+leaf blight833_.jpg,1,2,1
+6maize_train_leaf blight.JPG,1,2,1
+115maize_train_healthy.JPG,1,0,0
+leaf spot173_.jpg,1,3,1
+1167maize_valid_leaf spot.JPG,1,3,1
+AUG_69001b9d.jpg,1,0,0
+healthy36_.jpg,1,0,0
+2281maize_train_leaf blight.JPG,1,2,1
+healthy166_.jpg,1,0,0
+leaf spot278_.jpg,1,3,1
+AUG_7986f358.jpg,1,0,0
+454maize_valid_leaf spot.JPG,1,3,1
+streak virus124_.jpg,1,1,1
+streak virus288_.jpg,1,1,1
+AUG_6d48e4e5.jpg,1,0,0
+311maize_train_streak virus.JPG,1,1,1
+678maize_valid_leaf blight.JPG,1,2,1
+streak virus470_.jpg,1,1,1
+leaf spot866_.jpg,1,3,1
+2100maize_train_leaf blight.JPG,1,2,1
+leaf blight831_.jpg,1,2,1
+leaf spot408_.jpg,1,3,1
+773maize_train_streak virus.JPG,1,1,1
+180maize_train_leaf blight.JPG,1,2,1
+AUG_baa05b32.jpg,1,0,0
+561maize_valid_streak virus.JPG,1,1,1
+AUG_aea1e6ea.jpg,1,0,0
+streak virus434_.jpg,1,1,1
+768maize_train_streak virus.JPG,1,1,1
+leaf spot191_.jpg,1,3,1
+AUG_9533213b.jpg,1,0,0
+leaf blight839_.jpg,1,2,1
+leaf blight86_.jpg,1,2,1
+802maize_valid_leaf blight.JPG,1,2,1
+streak virus604_.jpg,1,1,1
+AUG_0d4d5b97.jpg,1,0,0
+AUG_55c2cf36.jpg,1,0,0
+leaf spot1038_.jpg,1,3,1
+AUG_1dca1f22.jpg,1,0,0
+streak virus88_.jpg,1,1,1
+leaf spot829_.jpg,1,3,1
+1190maize_valid_leaf spot.JPG,1,3,1
+leaf blight375_.jpg,1,2,1
+leaf spot1100_.jpg,1,3,1
+streak virus1008_.jpg,1,1,1
+leaf blight30_.jpg,1,2,1
+37maize_valid_leaf blight.JPG,1,2,1
+streak virus82_.jpg,1,1,1
+leaf spot306_.jpg,1,3,1
+streak virus530_.jpg,1,1,1
+streak virus975_.jpg,1,1,1
+1001maize_valid_streak virus.JPG,1,1,1
+streak virus726_.jpg,1,1,1
+leaf blight996_.jpg,1,2,1
+AUG_a568894d.jpg,1,0,0
+41maize_train_leaf blight.JPG,1,2,1
+130maize_valid_streak virus.JPG,1,1,1
+leaf spot964_.jpg,1,3,1
+streak virus156_.jpg,1,1,1
+260maize_valid_streak virus.JPG,1,1,1
+streak virus763_.jpg,1,1,1
+leaf spot662_.jpg,1,3,1
+450maize_valid_leaf blight.JPG,1,2,1
+streak virus7_.jpg,1,1,1
+leaf blight639_.jpg,1,2,1
+608maize_train_streak virus.JPG,1,1,1
+leaf blight780_.jpg,1,2,1
+leaf spot4_.jpg,1,3,1
+111maize_train_healthy.JPG,1,0,0
+streak virus481_.jpg,1,1,1
+AUG_76c3ba67.jpg,1,0,0
+leaf blight268_.jpg,1,2,1
+leaf spot403_.jpg,1,3,1
+1176maize_valid_leaf spot.JPG,1,3,1
+885maize_valid_leaf blight.JPG,1,2,1
+312maize_train_streak virus.JPG,1,1,1
+leaf blight884_.jpg,1,2,1
+2180maize_train_leaf blight.JPG,1,2,1
+leaf blight290_.jpg,1,2,1
+AUG_9bf9e161.jpg,1,0,0
+18maize_valid_leaf spot.JPG,1,3,1
+AUG_7427f90c.jpg,1,0,0
+693maize_train_streak virus.JPG,1,1,1
+leaf blight565_.jpg,1,2,1
+801maize_valid_leaf blight.JPG,1,2,1
+leaf spot289_.jpg,1,3,1
+AUG_ab1357c9.jpg,1,0,0
+leaf blight133_.jpg,1,2,1
+725maize_valid_leaf spot.JPG,1,3,1
+AUG_2027ad39.jpg,1,0,0
+1150maize_valid_leaf spot.JPG,1,3,1
+leaf spot1033_.jpg,1,3,1
+leaf spot841_.jpg,1,3,1
+leaf blight207_.jpg,1,2,1
+leaf blight112_.jpg,1,2,1
+407maize_valid_leaf blight.JPG,1,2,1
+leaf spot1184_.jpg,1,3,1
+leaf spot885_.jpg,1,3,1
+streak virus582_.jpg,1,1,1
+84maize_valid_streak virus.JPG,1,1,1
+leaf spot1165_.jpg,1,3,1
+leaf blight401_.jpg,1,2,1
+2215maize_train_leaf blight.JPG,1,2,1
+leaf spot894_.jpg,1,3,1
+leaf spot1249_.jpg,1,3,1
+672maize_train_leaf blight.JPG,1,2,1
+667maize_valid_leaf blight.JPG,1,2,1
+AUG_d89b40c1.jpg,1,0,0
+AUG_a8642d9e.jpg,1,0,0
+639maize_valid_leaf spot.JPG,1,3,1
+streak virus173_.jpg,1,1,1
+AUG_3a957b62.jpg,1,0,0
+leaf spot1087_.jpg,1,3,1
+leaf blight67_.jpg,1,2,1
+streak virus917_.jpg,1,1,1
+streak virus275_.jpg,1,1,1
+leaf spot618_.jpg,1,3,1
+streak virus766_.jpg,1,1,1
+720maize_valid_leaf spot.JPG,1,3,1
+182maize_valid_leaf spot.JPG,1,3,1
+594maize_valid_streak virus.JPG,1,1,1
+leaf spot378_.jpg,1,3,1
+306maize_train_streak virus.JPG,1,1,1
+292maize_train_streak virus.JPG,1,1,1
+leaf spot120_.jpg,1,3,1
+leaf blight421_.jpg,1,2,1
+37maize_train_healthy.JPG,1,0,0
+AUG_fa9d8ee7.jpg,1,0,0
+853maize_valid_streak virus.JPG,1,1,1
+2035maize_train_leaf spot.JPG,1,3,1
+leaf spot703_.jpg,1,3,1
+leaf blight288_.jpg,1,2,1
+leaf spot548_.jpg,1,3,1
+2168maize_train_leaf blight.JPG,1,2,1
+AUG_153ab52d.jpg,1,0,0
+4maize_valid_leaf blight.JPG,1,2,1
+streak virus800_.jpg,1,1,1
+healthy76_.jpg,1,0,0
+streak virus870_.jpg,1,1,1
+568maize_valid_streak virus.JPG,1,1,1
+444maize_valid_leaf blight.JPG,1,2,1
+265maize_valid_leaf spot.JPG,1,3,1
+healthy41_.jpg,1,0,0
+leaf blight757_.jpg,1,2,1
+557maize_train_streak virus.JPG,1,1,1
+2108maize_train_leaf blight.JPG,1,2,1
+709maize_valid_leaf spot.JPG,1,3,1
+478maize_train_streak virus.JPG,1,1,1
+leaf blight701_.jpg,1,2,1
+leaf spot912_.jpg,1,3,1
+399maize_valid_streak virus.JPG,1,1,1
+231maize_train_healthy.JPG,1,0,0
+streak virus956_.jpg,1,1,1
+leaf blight418_.jpg,1,2,1
+234maize_valid_leaf spot.JPG,1,3,1
+542maize_train_streak virus.JPG,1,1,1
+leaf blight353_.jpg,1,2,1
